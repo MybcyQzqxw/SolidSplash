@@ -2,7 +2,7 @@
 
 *Personalize your SOLIDWORKS splash screen.*
 
-> SolidSplash 是一款面向 SOLIDWORKS 个性化定制场景的 Windows 桌面端启动画面制作工具：它将任意 PNG 图片按设定的缩小倍数与偏移量合成为 `900×604` 的透明背景画布，实时预览效果，并支持批量导出。
+> SolidSplash 是一款面向 SOLIDWORKS 个性化定制场景的 Windows 桌面端启动画面制作工具：它将任意 PNG 图片按设定的缩小倍数与偏移量合成尺寸为 900×604 的透明背景画布，实时预览效果，并支持批量导出。
 
 ## 功能特性
 
