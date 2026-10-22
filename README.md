@@ -2,7 +2,7 @@
 
 *Personalize your SOLIDWORKS splash screen.*
 
-SolidSplash 是一个桌面小工具，帮助你把任意 PNG 图片快速处理成 SOLIDWORKS 启动画面（`900×604`，透明背景）所需的规格，并以单个 `.exe` 文件分发给最终用户，无需安装 Python 或任何依赖。
+> SolidSplash 是一款面向 SOLIDWORKS 个性化定制场景的 Windows 桌面端启动画面制作工具：它将任意 PNG 图片按设定的缩小倍数与偏移量合成为 `900×604` 的透明背景画布，实时预览效果，并支持批量导出。
 
 ## 功能特性
 
